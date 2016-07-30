@@ -1,0 +1,38 @@
+body{
+  color: cornflowerblue;
+}
+.btn-size {
+  width:80%;
+}
+
+.col-sm-4{
+  background-color: rgba(134, 181, 0, 0.5);#86b500;
+  border-radius: 10px;
+  padding: 5px;
+
+}
+
+.fa{
+  margin: 5px;
+}
+
+.container-fluid{
+  margin: 75px;
+  padding: 25px;
+}
+
+.img-responsive{
+  /*max-height: 100%;  */
+}
+
+.wrapper{
+    font-size: 80%;
+}
+
+#template{
+  display: none;
+}
+
+.newDiv{
+  margin: 10px;
+}
