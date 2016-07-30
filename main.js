@@ -128,7 +128,7 @@ function setImg(x){
   if(x){
       return x;
     } else {
-      return '/unknownProfile.png';
+      return 'unknownProfile.png';
     }
   }
 
